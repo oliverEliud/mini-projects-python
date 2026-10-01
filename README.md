@@ -1,7 +1,7 @@
 # Organizador-de-Archivos-mediante-rutas
 # Python3
 #==DESCRIPCION==#
-Organizador sencillo de archivos/carpetas en Python3, mediante rutas pensado para intentar usarse en Windows y Linux
+Organizador sencillo de archivos/carpetas en Python3, mediante rutas pensado para intentar usarse en Windows y Linux, similar ala terminal tipo mini shell
 
 #==REQUISITOS==#
 Python 3.x
